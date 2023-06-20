@@ -78,3 +78,14 @@ This is just a basic introduction to HTML and CSS, but it should give you a star
   </body>
 </html>
 
+
+
+The <strong> element is for content that is of greater importance, while the <b> element is
+ used to draw attention to text without 
+indicating that it's more important.
+
+
+The <i> tag displays the text in italic. Like the <b> tag, the <i> tag is also used for presentation purposes. It represents 
+some part of a text in an alternate voice or mood or
+ something that indicates a different quality of text. 
+The <em> tag specifies the stress emphasis of its contents.
